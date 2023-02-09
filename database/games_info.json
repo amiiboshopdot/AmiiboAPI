@@ -54382,21 +54382,6 @@
 		"0x02f3000102f90502": {
 			"games3DS": [
 				{
-					"gameName": "Animal Crossing: New Leaf",
-					"gameID": [
-						"0004000000086400",
-						"0004000000086300",
-						"0004000000198F00",
-						"0004000000198E00"
-					],
-					"amiiboUsage": [
-						{
-							"Usage": "Invite the character to visit your RV campsite, give you an item, and/or move to your town",
-							"write": false
-						}
-					]
-				},
-				{
 					"gameName": "Kirby: Planet Robobot",
 					"gameID": [
 						"0004000000189600",
@@ -90594,21 +90579,6 @@
 							"write": false
 						}
 					]
-				},
-				{
-					"gameName": "Yoshi's Woolly World",
-					"gameID": [
-						"00040000001A4200",
-						"00040000001A4100",
-						"00040000001B6C00",
-						"00040000001B6D00"
-					],
-					"amiiboUsage": [
-						{
-							"Usage": "Unlock a character-based Yoshi yarn pattern",
-							"write": false
-						}
-					]
 				}
 			],
 			"gamesWiiU": [
@@ -98017,6 +97987,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Mario Kart 8 Deluxe",
 					"gameID": [
 						"0100152000022000"
@@ -98345,6 +98327,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Mario Kart 8 Deluxe",
 					"gameID": [
 						"0100152000022000"
@@ -98621,6 +98615,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Super Kirby Clash",
 					"gameID": [
 						"01003FB00C5A8000"
@@ -98868,6 +98874,18 @@
 					"amiiboUsage": [
 						{
 							"Usage": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars",
+							"write": false
+						}
+					]
+				},
+				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
 							"write": false
 						}
 					]
@@ -99125,6 +99143,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Super Kirby Clash",
 					"gameID": [
 						"01003FB00C5A8000"
@@ -99377,6 +99407,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Super Kirby Clash",
 					"gameID": [
 						"01003FB00C5A8000"
@@ -99537,6 +99579,18 @@
 					]
 				},
 				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
+							"write": false
+						}
+					]
+				},
+				{
 					"gameName": "Super Kirby Clash",
 					"gameID": [
 						"01003FB00C5A8000"
@@ -99626,6 +99680,18 @@
 					"amiiboUsage": [
 						{
 							"Usage": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars",
+							"write": false
+						}
+					]
+				},
+				{
+					"gameName": "Kirby's Return to Dream Land Deluxe",
+					"gameID": [
+						"01006B601380E000"
+					],
+					"amiiboUsage": [
+						{
+							"Usage": "Receive more useful items",
 							"write": false
 						}
 					]
@@ -99831,7 +99897,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100049,7 +100115,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100279,7 +100345,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100497,7 +100563,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100647,7 +100713,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100783,7 +100849,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -100919,7 +100985,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101016,7 +101082,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101113,7 +101179,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101197,7 +101263,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101285,7 +101351,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101373,7 +101439,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
@@ -101443,7 +101509,7 @@
 					],
 					"amiiboUsage": [
 						{
-							"Usage": "Receive the character's attire, music from the game(s) in which they appeared, and a helpful item",
+							"Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
 							"write": false
 						}
 					]
